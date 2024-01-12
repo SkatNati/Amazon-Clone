@@ -2,7 +2,7 @@
 
 An Amazon clone web application built with [React](https://reactjs.org/) and [Firebase](https://firebase.google.com/).
 
-![Amazon Clone](link-to-your-screenshot)
+![Amazon Clone](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/digital/video/merch/2019/Other/RB-1208/RB-1208_DeviceLinking_WatchAnywhere_1920x883.jpg)
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ An Amazon clone web application built with [React](https://reactjs.org/) and [Fi
 
 ## Demo
 
-Check out the live demo [here](link-to-your-demo).
+Check out the live demo [here](https://www.loom.com/share/fe6805e5ad984d1dbafeb68f31a216d8?sid=171b460a-925c-46d8-aeea-b7c7f0883f54).
 
 ## Features
 
