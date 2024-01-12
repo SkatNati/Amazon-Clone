@@ -1,3 +1,4 @@
+````markdown
 # Amazon Clone
 
 An Amazon clone web application built with [React](https://reactjs.org/) and [Firebase](https://firebase.google.com/).
@@ -32,3 +33,46 @@ Check out the live demo [here](https://www.loom.com/share/fe6805e5ad984d1dbafeb6
    ```bash
    git clone https://github.com/SkatNati/Amazon-Clone.git
    ```
+````
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd amazon-clone
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+1. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+2. Open your browser and go to [http://localhost:3000](http://localhost:3000).
+
+3. Explore the Amazon clone application!
+
+## Contributing
+
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Open a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
+
+```
